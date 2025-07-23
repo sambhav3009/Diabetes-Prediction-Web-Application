@@ -84,10 +84,6 @@ The `train_models.py` script trains and evaluates:
    http://localhost:5000
    ```
 
-## Screenshots
-### Home Page
-![Input Form](d1388d92-0afb-4da7-b6c6-88e0715f0f9f.png)
-
 ## Project Structure
 ```plaintext
 .
